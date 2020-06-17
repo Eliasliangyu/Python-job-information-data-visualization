@@ -1,4 +1,4 @@
-# Visual-analysis-of-job-data
+# Python job information data visualization
 使用python爬取岗位相关的地区分布、薪资水平、职位要求等数据保存到数据库，并将爬取得出来的数据生成图表可视化。
 
 一：数据抓取：
